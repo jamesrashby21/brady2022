@@ -14,7 +14,7 @@ format:
 
 I am largely interested in the study of memory from a cognitive perspective, as there is still much to explore about the features and limitations of working memory in all forms. I have previously focused on much more rudimentary, but rather mundane motor skill cognition tasks, which have introduced me to creating my own web experiment with javascript. With the paper I chose being focused on visual working memory, (Brady and Störmer, 2022) I feel sufficiently challenged by coding a completely new paradigm in a format I'm familiar with. The first experiment in the paper yielded many different findings about the capacity of visual working memory concerning meaningful items when compared to colors in 2 different formats (simultaneous and sequential).
 
-For this task, I will need to reproduce the visual memory task using the standard color circle (Suchow et al. 2013; Schurgin et al. 2018) and particular set of objects (Brady et al., 2016) in the task from the paper I will be replicating. There will be four distinct styles of task that I need to code: simultaneous color wheel, sequential color wheel, simultaneous objects, and sequential objects. For the two conditions (simultaneous vs. sequential) there are distinct durations for how long each stimuli is displayed. This will benefit from being heavily thought out beforehand, as I can forsee issues with accurately mirroring the order of specific items from the original task.
+For this task, I will need to reproduce the visual memory task using the standard color circle (Suchow et al. 2013; Schurgin et al. 2018) and particular set of objects (Brady et al., 2016) in the task from the paper I will be replicating. There will be four distinct styles of task that I need to code: simultaneous color wheel, sequential color wheel, simultaneous objects, and sequential objects. For the two conditions (simultaneous vs. sequential) there are distinct durations for how long each stimuli is displayed. This will benefit from being heavily thought out beforehand, as I can foresee issues with accurately mirroring the order of specific items from the original task.
 
 The first task I coded was much simpler than this, and was concerned mainly with precision of recording input, not precision with displaying stimuli, so working with quickly changing stimuli on a screen will be new. I also received a substantial amount of help with the structure of the code in general, debugging, and most of the work in css and html.
 
@@ -22,7 +22,7 @@ Link to Repository: https://github.com/jamesrashby21/brady2022
 
 Link to Replication Paper: https://dx.doi.org/10.1037/xlm0001014
 
-
+-------------------------------------------------------------------------------
 
 [No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information. You will likely contact the authors of the original study, so this should be professional and forward facing. It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
 
